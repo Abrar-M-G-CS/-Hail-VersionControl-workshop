@@ -1,0 +1,3 @@
+create table info(name varchar2(20),major varchar2(10));
+alter table info add value ("Abrar Ghandurah","CS");
+desc info;
